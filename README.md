@@ -1,5 +1,6 @@
 # Méthodologie pour la Construction d'un Modèle de Prédiction Financière
 
+(Rédigé par Gemini 2.5 Pro)
 L'objectif est de prédire une série temporelle financière (un "Indicator Name" spécifique pour un "Country Name" donné) en utilisant son historique.
 
 1. Définition Claire de l'Objectif et Sélection des Données 🎯
